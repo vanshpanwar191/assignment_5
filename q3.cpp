@@ -53,7 +53,7 @@ int main(){
     list ll;
     ll.pushfront(1);
     ll.pushfront(2);
-    ll.psuhback(3);
+    ll.pushback(3);
     ll.pushback(4);
     ll.middle();
 }
