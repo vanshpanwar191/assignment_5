@@ -8,7 +8,7 @@ class node{
           data=val;
           next=NULL;
       }
-;}
+};
 class list{
     node * head;
     node *tail;
